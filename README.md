@@ -18,9 +18,9 @@
 
 ##  <a name="table">Table of Contents</a>
 
-1.  [Introduction](#introduction)
-2.  [Tech Stack](#tech-stack)
-3.  [Features](#features)
+  [Introduction](#introduction)
+  [Tech Stack](#tech-stack)
+  [Features](#features)
 
 
 
@@ -34,13 +34,13 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
-- Next.js
-- Firebase
-- Tailwind CSS
-- Vapi AI
-- shadcn/ui
-- Google Gemeni
-- Zod
+ Next.js
+ Firebase
+ Tailwind CSS
+ Vapi AI
+ shadcn/ui
+ Google Gemeni
+ Zod
 
 ## <a name="features">🔋 Features</a>
 
